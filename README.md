@@ -10,8 +10,6 @@ Which portfolios are riskier than the S&P 500?  Berkshire Hathaway & Tiger Globa
 
 Which returns most closely mimic the S&P? Paulson & Co
 
+Does the portfolio seem sensitive to movements in the S&P 500?
 
-Choose one portfolio and plot a rolling beta between that portfolio's returns and S&P 500 returns. Does the portfolio seem sensitive to movements in the S&P 500?
-
-
-How does your portfolio fair?
+How does your portfolio fair? 
