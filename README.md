@@ -1,5 +1,5 @@
 # WhalePortfolio
-Homework assignment 3
+Homework assignment 3<br>
 Which box has the largest spread? Tiger Global Management, LLC
 Which has the smallest spread? Paulson & Co. 
 
