@@ -1,5 +1,5 @@
 # WhalePortfolio
-Homework assignment 3<br>
+##Homework assignment 3<br>
 Which box has the largest spread?  ---> Tiger Global Management, LLC<br>
 Which has the smallest spread? --->  Paulson & Co. <br>
 Which portfolios are riskier than the S&P 500? ---> Berkshire Hathaway & Tiger Global MGM <br>
